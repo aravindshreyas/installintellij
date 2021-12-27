@@ -13,6 +13,6 @@ cd ~/Downloads/
 
 ls
 
-# cd idea-IU-213.5744.223/bin
+cd idea-IU-213.5744.223/bin
 
-# ./idea.sh
+./idea.sh
